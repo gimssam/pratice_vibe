@@ -4,9 +4,9 @@ export default function Profile() {
   return (
     <section className="profile">
       <div className="profile__card">
-        <div className="profile__avatar">홍</div>
+        <div className="profile__avatar">클</div>
         <p className="profile__eyebrow">PROFILE</p>
-        <h3 className="profile__name">홍길동</h3>
+        <h3 className="profile__name">클로드</h3>
         <dl className="profile__details">
           <div className="profile__row">
             <dt>연락처</dt>
